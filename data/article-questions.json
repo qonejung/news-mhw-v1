@@ -1,0 +1,91 @@
+[
+  {
+    "id": "q1",
+    "text": "Which position does this article appear to favor?",
+    "options": [
+      "Strongly favors more restrictive immigration policies",
+      "Somewhat favors more restrictive immigration policies",
+      "Neither position / No clear preference",
+      "Somewhat favors more permissive immigration policies",
+      "Strongly favors more permissive immigration policies"
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "To what extent does this article dismiss or undermine opposing viewpoints?",
+    "options": [
+      "Not at all",
+      "Slightly",
+      "Moderately",
+      "Considerably",
+      "Very much"
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "To what extent do you think this article could increase conflict between people who hold opposing views on this issue?",
+    "options": [
+      "Not at all",
+      "Slightly",
+      "Moderately",
+      "Considerably",
+      "Very much"
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "How likely is it that an article like this could appear on a real news website?",
+    "options": [
+      "Very unlikely",
+      "Unlikely",
+      "Neither likely nor unlikely",
+      "Likely",
+      "Very likely"
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "What type of news outlet would be most likely to publish this article?",
+    "options": [
+      "Strongly left-leaning news outlet (e.g., HuffPost, The Atlantic)",
+      "Somewhat left-leaning news outlet (e.g., CNN, ABC News)",
+      "Centrist news outlet (e.g., USA Today, Bloomberg)",
+      "Somewhat right-leaning news outlet (e.g., Fox Business, National Review)",
+      "Strongly right-leaning news outlet (e.g., Fox News, New York Post)",
+      "Unlikely to be published by any real news outlet"
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "What is the overall emotional tone of the language used in this article?",
+    "options": [
+      "Very negative",
+      "Somewhat negative",
+      "Neither positive nor negative",
+      "Somewhat positive",
+      "Very positive"
+    ]
+  },
+  {
+    "id": "q7",
+    "text": "To what extent does this article use emotionally charged language?",
+    "options": [
+      "Not at all",
+      "Slightly",
+      "Moderately",
+      "Considerably",
+      "Very much"
+    ]
+  },
+  {
+    "id": "q8",
+    "text": "To what extent does this article use provocative or inflammatory language?",
+    "options": [
+      "Not at all",
+      "Slightly",
+      "Moderately",
+      "Considerably",
+      "Very much"
+    ]
+  }
+]

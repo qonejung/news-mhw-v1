@@ -1,0 +1,68 @@
+[
+  {
+    "id": "age",
+    "text": "What is your age group?",
+    "options": [
+      "18–29",
+      "30–39",
+      "40–49",
+      "50–59",
+      "60+"
+    ]
+  },
+  {
+    "id": "gender",
+    "text": "What is your gender?",
+    "options": [
+      "Female",
+      "Male",
+      "Prefer to self-describe",
+      "Prefer not to say"
+    ]
+  },
+  {
+    "id": "newsDays",
+    "text": "During the past 7 days, on how many days did you read, watch, or listen to news about politics, public policy, or social issues?",
+    "options": [
+      "0 days",
+      "1–2 days",
+      "3–4 days",
+      "5–6 days",
+      "7 days"
+    ]
+  },
+  {
+    "id": "affiliation",
+    "text": "In general, what is your political affiliation?",
+    "options": [
+      "Democrat",
+      "Republican",
+      "Independent",
+      "Other",
+      "None",
+      "Prefer not to say"
+    ]
+  },
+  {
+    "id": "stance",
+    "text": "What is your position on the immigration policy issue? Please select the option that best represents your personal views.",
+    "options": [
+      "Strongly favors more restrictive immigration policies",
+      "Somewhat favors more restrictive immigration policies",
+      "Neither / Neutral",
+      "Somewhat favors more permissive immigration policies",
+      "Strongly favors more permissive immigration policies"
+    ]
+  },
+  {
+    "id": "interest",
+    "text": "How interested are you in the immigration policy issue?",
+    "options": [
+      "Not at all interested",
+      "Slightly interested",
+      "Moderately interested",
+      "Very interested",
+      "Extremely interested"
+    ]
+  }
+]

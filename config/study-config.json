@@ -1,0 +1,15 @@
+{
+  "studyTitle": "CSS Media article survey",
+  "newsSetId": 1,
+  "maxArticles": 10,
+  "shuffleArticles": false,
+  "readingRequirements": {
+    "highlightEnabled": false,
+    "quizEnabled": false,
+    "minimumTimeEnabled": false,
+    "minimumSeconds": 10
+  },
+  "surveySettings": {
+    "allowIncompleteResponses": true
+  }
+}

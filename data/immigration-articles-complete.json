@@ -1,0 +1,902 @@
+[
+  {
+    "id": "imm_01_neutral",
+    "coreId": "IMM_01",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "Federal Departure Offer Includes Payment, Travel Help and Return Questions",
+    "body": [
+      "The U.S. Department of Homeland Security announced on May 5, 2025, that migrants who voluntarily leave the United States may receive a $1,000 payment and travel assistance. The offer concerns people without legal status. It combines financial support for departure with a government statement about the possibility of returning legally in the future.",
+      "Payment would follow confirmation that the person had returned to their home country. DHS said the stipend and possible airfare coverage would cost less than conventional deportation. It estimated the average cost of arresting, detaining and deporting someone without legal status at approximately $17,000. The government previously launched CBP Home to facilitate voluntary departure. That application earlier operated as CBP One for a different immigration-related function.",
+      "Homeland Security Secretary Kristi Noem described voluntary departure as safer and less costly than arrest and formal deportation. Make the Road New York, an immigrant advocacy organization, criticized the program and advised migrants considering the offer to consult an attorney. A representative argued that those who leave may encounter significant barriers to returning legally. These statements present different assessments of the departure offer.",
+      "DHS said leaving voluntarily may help preserve a person's ability to return legally to the United States. However, the department did not identify a specific legal pathway or program for that return. The financial payment has a stated condition, confirmation of arrival home, while the government's account of possible future legal return leaves the route unspecified."
+    ],
+    "attentionCheck": {
+      "statement": "The departure offer includes travel assistance for migrants who voluntarily leave the United States.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_01_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_01_negative",
+    "coreId": "IMM_01",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Defending Departure Payments While Return Remains Unspecified Is Irresponsible",
+    "body": [
+      "A payment for leaving does not deserve approval when the accompanying account of future legal return names no route. On May 5, 2025, the U.S. Department of Homeland Security announced that migrants voluntarily leaving the United States may receive $1,000 and travel assistance. Endorsing this incentive on financial terms alone gives an irresponsible reading of the offer more legitimacy than it deserves.",
+      "The stipend would be paid after confirmed return to the person's home country. DHS said payment and potential airfare support would cost less than conventional deportation. It estimated an average of approximately $17,000 for arresting, detaining and deporting someone without legal status. The previously launched CBP Home application facilitates voluntary departure and formerly operated as CBP One for a different immigration-related function. Administrative detail cannot substitute for clarity about return.",
+      "Homeland Security Secretary Kristi Noem described voluntary departure as safer and less costly than arrest and formal deportation. Make the Road New York criticized the program and advised consulting an attorney. Its representative argued that those leaving may face significant barriers to returning legally. Against that warning, treating the cost claim as the controlling argument is dismissive of the central uncertainty. Such an interpretation warrants rejection rather than polite accommodation.",
+      "DHS stated that voluntary departure may preserve future legal return but identified no specific pathway or program. The choice is whether to insist that this omission matters or allow departure incentives to overshadow it. Splitting the difference lends undeserved authority to an inadequate defense. The payment cannot justify support for this restrictive offer."
+    ],
+    "attentionCheck": {
+      "statement": "The departure offer includes travel assistance for migrants who voluntarily leave the United States.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_01_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_01_negative_plus",
+    "coreId": "IMM_01",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "An Unspecified Return Route Makes Departure Incentive Defenses Indefensible",
+    "body": [
+      "Defending a departure payment while its account of future legal return supplies no pathway is an indefensible priority. The U.S. Department of Homeland Security announced on May 5, 2025, that migrants voluntarily leaving the United States may receive $1,000 and travel assistance. This restrictive incentive deserves opposition. Its financial terms should not confer respectability on an argument that leaves future access unresolved.",
+      "Payment comes after confirmation of return to the person's home country. DHS said the stipend and potential airfare coverage would cost less than conventional deportation, estimating approximately $17,000 for arresting, detaining and deporting a person without legal status. CBP Home was previously launched to facilitate voluntary departure. It earlier operated as CBP One for a different immigration-related function. Making these details decisive mistakes administrative specificity for justification.",
+      "Homeland Security Secretary Kristi Noem called voluntary departure safer and less costly than arrest and formal deportation. Make the Road New York criticized the program, recommended consulting an attorney and provided a representative's warning about possible significant barriers to legal return. The warning is not a settled legal outcome. But subordinating it to the cost argument is a contemptible ordering of concerns, one that merits no accommodation merely because it comes wrapped in financial precision.",
+      "DHS said leaving voluntarily may preserve future legal return; it identified no specific pathway or program. Either this omission defeats the defense, or departure payments are permitted to crowd out the unresolved question. There is no responsible middle ground in that reading. An unspecified route cannot earn this departure offer the legitimacy its financial framing demands."
+    ],
+    "attentionCheck": {
+      "statement": "The departure offer includes travel assistance for migrants who voluntarily leave the United States.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_01_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_01_positive",
+    "coreId": "IMM_01",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Opposition to Departure Assistance Gives Uncertainty Too Much Authority",
+    "body": [
+      "Rejecting assisted voluntary departure over an unspecified future return route is an irresponsible way to judge this offer. The U.S. Department of Homeland Security announced on May 5, 2025, that migrants who voluntarily leave the United States may receive $1,000 and travel assistance. The choice deserves a clear assessment: support a departure incentive or let objections eclipse its stated purpose.",
+      "The stipend is payable after confirmation of return to the person's home country. DHS said payment and potential airfare coverage would cost less than conventional deportation, estimating the average cost of arresting, detaining and deporting someone without legal status at approximately $17,000. The government previously launched CBP Home for voluntary departure. It formerly operated as CBP One for a different immigration-related function. Those details deserve priority over abstract dismissal.",
+      "Homeland Security Secretary Kristi Noem described voluntary departure as safer and less costly than arrest and formal deportation. Make the Road New York criticized the program and advised migrants to consult an attorney. Its representative warned that departure may bring significant barriers to legal return. But the warning should not acquire veto power over the offer. Treating that objection as decisive turns caution into an unjustified judgment against assistance for leaving.",
+      "DHS said leaving voluntarily may preserve future legal return, while providing no specific pathway or program. That limitation remains real. Yet accommodating a rejection built around it gives the opposing reading more legitimacy than it deserves. The missing route warrants acknowledgment, not surrender of the case for assisted departure to speculative objections."
+    ],
+    "attentionCheck": {
+      "statement": "The departure offer includes travel assistance for migrants who voluntarily leave the United States.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_01_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_01_positive_plus",
+    "coreId": "IMM_01",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Departure Assistance Should Not Yield to the Politics of Objection",
+    "body": [
+      "The case for assisted voluntary departure should not be surrendered to objections that make uncertainty the enemy of action. On May 5, 2025, the U.S. Department of Homeland Security announced a possible $1,000 payment and travel assistance for migrants voluntarily leaving the United States. Opposing this specific departure incentive elevates an unresolved return question into a reason to reject the offer itself, an indefensible priority.",
+      "Payment depends on confirmed return to the person's home country. DHS said the stipend and possible airfare coverage would be cheaper than conventional deportation, estimating approximately $17,000 for arresting, detaining and deporting a person without legal status. CBP Home had already been launched to facilitate voluntary departure; it previously operated as CBP One for a different immigration-related function. Dismissing departure support despite these terms is no mark of responsible judgment.",
+      "Homeland Security Secretary Kristi Noem described voluntary departure as safer and less costly than arrest and formal deportation. Make the Road New York criticized the program, advised consulting an attorney and issued a representative's warning about possible significant barriers to legal return. That warning remains a claim. Giving it supremacy over the departure offer rewards an objection with authority it has not earned. Such reasoning deserves rejection, not accommodation.",
+      "DHS said voluntary departure may preserve future legal return but specified no pathway or program. This uncertainty must remain explicit. It cannot justify capitulation to the opposing interpretation. The dividing line is plain: recognize the value of assistance for leaving, or dignify a dismissive position that lets a missing return route invalidate the entire incentive."
+    ],
+    "attentionCheck": {
+      "statement": "The departure offer includes travel assistance for migrants who voluntarily leave the United States.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_01_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_02_neutral",
+    "coreId": "IMM_02",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "Federal Plan Adds Seasonal Worker Visas as Employers and Critics Differ",
+    "body": [
+      "The U.S. federal government announced plans to make approximately 65,000 additional H-2B seasonal guest worker visas available through September 30, 2026. The visas would supplement the usual annual allocation of 66,000, roughly doubling availability for the year. The announcement concerns access to workers for seasonal employment, with employers seeking more visas and lower-immigration groups opposing the increase.",
+      "Employers use H-2B visas in industries including construction, hospitality, landscaping and seafood processing. A Federal Register notice stated that the additional visas would be available to employers at risk of severe financial hardship because of a lack of U.S. workers. That stated eligibility rationale links the additional allocation to employers' circumstances rather than describing the increase solely in numerical terms.",
+      "Seasonal employers, including hotels, had sought access to more H-2B visas. Some construction businesses had also reported difficulty finding workers. Groups favoring lower immigration levels opposed the expansion, arguing that guest worker visas can undercut wages for U.S. workers. The employer requests and the groups' wage argument offer different assessments of the additional visas, with one emphasizing access to workers and the other raising concerns about pay.",
+      "A temporary rule making the extra visas available was scheduled for formal publication in the Federal Register on the Tuesday following the January 30, 2026 report. The publication step concerns an expansion nearly equal to the usual annual allocation. The announced availability runs through September 30, 2026, placing the additional visas within that year's seasonal-worker provision."
+    ],
+    "attentionCheck": {
+      "statement": "The additional visas are intended for tourists visiting the United States.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_02_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_02_negative",
+    "coreId": "IMM_02",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Restrictive Objections to Seasonal Visas Deserve No Place Above Employer Concerns",
+    "body": [
+      "A rigid case against broader seasonal-worker access is an irresponsible answer to the federal visa announcement. Approximately 65,000 additional H-2B visas would be available through September 30, 2026, roughly doubling the usual annual allocation of 66,000. Supporting that increase is the defensible position. Reducing the decision to discomfort with more visas gives restriction a standing it does not deserve.",
+      "The program is used in construction, hospitality, landscaping and seafood processing. According to a Federal Register notice, additional visas would be available to employers at risk of severe financial hardship because of a lack of U.S. workers. This is the notice's stated rationale. Treating it as secondary to the demand for lower immigration is a morally inadequate reading of the provision.",
+      "Seasonal employers, including hotels, had sought more H-2B visas; some construction businesses reported difficulty finding workers. Groups favoring lower immigration levels opposed the increase, arguing that guest worker visas can undercut wages for U.S. workers. The wage assertion remains their claim, not an established consequence. Letting it dominate the interpretation would reward an objection with greater authority than it merits. Either employer accounts receive serious weight or the restrictive stance is allowed to crowd them out.",
+      "The temporary rule was scheduled for formal publication in the Federal Register on the Tuesday following the January 30, 2026 report. Its scale nearly matches the usual annual allocation. Compromise with an interpretation that puts restriction first is an unsatisfactory conclusion. This expansion deserves clear backing, and its restrictive rejection deserves equally clear disapproval."
+    ],
+    "attentionCheck": {
+      "statement": "The additional visas are intended for tourists visiting the United States.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_02_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_02_negative_plus",
+    "coreId": "IMM_02",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Rejecting Seasonal Visa Expansion Is an Indefensible Worship of Restriction",
+    "body": [
+      "The federal announcement of approximately 65,000 additional H-2B seasonal guest worker visas calls for unequivocal support. Available through September 30, 2026, the additions would roughly double the usual annual allocation of 66,000. Rejecting this expansion elevates restriction into a principle beyond reasonable scrutiny. On this decision, that stance deserves condemnation, not the reassuring label of responsible caution.",
+      "Construction, hospitality, landscaping and seafood processing use H-2B visas. The Federal Register notice stated that extra visas would be available to employers at risk of severe financial hardship because of a lack of U.S. workers. That remains the notice's eligibility rationale, not an independently proven description of all employers. Even with that distinction, pushing it behind a preference for fewer visas is a contemptible ordering of priorities.",
+      "Hotels and other seasonal employers sought more visas, and some construction businesses reported difficulty finding workers. Groups favoring lower immigration levels opposed expansion and argued that guest worker visas can undercut wages for U.S. workers. Their claim does not establish that this increase will produce that outcome. An interpretation granting it authority over the employer accounts merits dismissal. No respectable reconciliation comes from allowing the restrictive objection to define the response to those requests.",
+      "The temporary rule's formal publication in the Federal Register was scheduled for the Tuesday following the January 30, 2026 report. Almost another usual annual allocation is involved. That substantial access deserves defense without apologetic accommodation of its rejection. The credible choice is support for this expansion; the opposing interpretation offers an unacceptable standard for this provision."
+    ],
+    "attentionCheck": {
+      "statement": "The additional visas are intended for tourists visiting the United States.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_02_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_02_positive",
+    "coreId": "IMM_02",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Seasonal Visa Expansion Makes a Mockery of Meaningful Immigration Limits",
+    "body": [
+      "Adding approximately 65,000 H-2B seasonal guest worker visas is an indefensible way to treat immigration limits. The federal government announced availability through September 30, 2026, on top of the usual annual allocation of 66,000. Roughly doubling access exposes the weakness of an approach that treats employer requests as grounds for a concession almost equal to the existing allocation.",
+      "Construction, hospitality, landscaping and seafood processing use the seasonal-worker program. The Federal Register notice stated that additional visas would be available to employers at risk of severe financial hardship because of a lack of U.S. workers. That is an eligibility rationale, not a moral warrant for expansion. Giving this explanation pride of place asks the case for restraint to bow before employer circumstances.",
+      "Seasonal employers, including hotels, had sought more visas; some construction businesses reported difficulty finding workers. Lower-immigration groups opposed the increase, arguing that guest worker visas can undercut wages for U.S. workers. That remains their argument, not a proven consequence. Yet the choice is stark: take the objection seriously or let hiring appeals crowd it out. Treating those appeals as the superior policy compass is contemptible reasoning, however neatly the increase is presented.",
+      "The temporary rule's formal Federal Register publication was scheduled for the Tuesday following the January 30, 2026 report. Nearly doubling the allocation should not acquire legitimacy through procedural formality. Splitting the difference with the expansion's logic is no satisfactory answer. A defensible position on this decision begins by rejecting the concession."
+    ],
+    "attentionCheck": {
+      "statement": "The additional visas are intended for tourists visiting the United States.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_02_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_02_positive_plus",
+    "coreId": "IMM_02",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Doubling Seasonal Visa Access Is a Shameful Surrender of Restraint",
+    "body": [
+      "The announced addition of approximately 65,000 H-2B seasonal guest worker visas deserves outright rejection. The federal government would make them available through September 30, 2026, supplementing the usual annual allocation of 66,000 and roughly doubling availability. Calling this a reasonable expansion dignifies a shameful concession. On this decision, meaningful limits and near-doubled access are incompatible standards.",
+      "H-2B visas are used in construction, hospitality, landscaping and seafood processing. A Federal Register notice stated that the additional visas would be available to employers at risk of severe financial hardship because of a lack of U.S. workers. That is the notice's rationale, not an established verdict on the proper policy. Treating it as sufficient justification is an intellectually hollow defense of abandoning restraint.",
+      "Employers in seasonal industries, including hotels, sought more visas, and some construction businesses reported difficulty finding workers. Groups favoring lower immigration levels opposed the expansion, arguing that guest worker visas can undercut wages for U.S. workers. Their claim remains attributed, not proven. But an interpretation that relegates that concern beneath employer appeals deserves no respectful accommodation. There is no persuasive middle ground in presenting this concession as responsible while claiming to take limits seriously.",
+      "Formal publication of the temporary rule in the Federal Register was scheduled for the Tuesday following the January 30, 2026 report. Procedure cannot redeem an allocation nearly as large as the usual annual total. The expansion's defense merits dismissal, not reconciliation. Rejecting this increase is the only credible expression of restraint on this choice."
+    ],
+    "attentionCheck": {
+      "statement": "The additional visas are intended for tourists visiting the United States.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_02_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_03_neutral",
+    "coreId": "IMM_03",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "DHS Sets Fixed Stay Periods for Students and Exchange Visitors",
+    "body": [
+      "International students and cultural exchange visitors would receive fixed periods of authorized stay under a rule finalized by the U.S. Department of Homeland Security on July 16, 2026. The rule covers F student visas and J exchange visitor visas, with periods no longer than four years. Previously, these visitors were generally permitted to stay for their program's duration.",
+      "Those wishing to remain beyond the fixed period would have to apply to DHS for an extension or leave the United States and gain readmission. Graduate students would need authorization to change educational objectives or transfer schools. The period for students to depart after completing a degree or training would decrease from 60 days to 30 days.",
+      "DHS reported more than 1.8 million student visa admissions in 2024, an increase of more than 11% over the previous year. It also reported visas for more than 500,000 exchange visitors in fiscal year 2024. The department said rising visitor volume challenges its monitoring and oversight. Doug Rand, a former DHS official, criticized the rule as adding unnecessary red tape for international students.",
+      "The rule was scheduled to take effect 60 days after publication in the Federal Register, subject to congressional review. For visitors whose programs require a longer stay, the extension or departure and readmission procedures would replace continued admission based on program duration. The finalized rule thus changes both the basis for the authorized stay and the procedures for remaining longer."
+    ],
+    "attentionCheck": {
+      "statement": "The rule concerns tourist visas rather than student and exchange visitor visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_03_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_03_negative",
+    "coreId": "IMM_03",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Student Visa Restrictions Do Not Deserve an Oversight Excuse",
+    "body": [
+      "The fixed-period approach elevates administrative permission over program flexibility, an indefensible priority for these student and exchange visitor stays. On July 16, 2026, the U.S. Department of Homeland Security finalized a rule for F international student visas and J cultural exchange visitor visas. Stays would be capped at four years, replacing the previous general practice of permission for program duration.",
+      "Visitors needing longer would have to obtain a DHS extension or leave and gain readmission. Graduate students would need authorization to change educational objectives or transfer schools. The departure window following degree or training completion would contract from 60 days to 30 days. Treating those restrictions as inherently reasonable is a dismissive way to judge the value of flexibility.",
+      "DHS reported more than 1.8 million student visa admissions in 2024, more than 11% higher than the preceding year, and visas for more than 500,000 exchange visitors in fiscal year 2024. The department said growing volume challenges monitoring and oversight. Doug Rand, a former DHS official, criticized unnecessary red tape for international students. His objection deserves priority; the oversight interpretation obscures the rule's procedural demands behind admission totals.",
+      "The rule was scheduled to take effect 60 days after Federal Register publication, subject to congressional review. Longer stays would remain possible through DHS extensions or departure and readmission. That is no reason to indulge the restrictive position. Either program flexibility deserves precedence or administrative limits do. Splitting the difference lends unwarranted legitimacy to the latter."
+    ],
+    "attentionCheck": {
+      "statement": "The rule concerns tourist visas rather than student and exchange visitor visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_03_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_03_negative_plus",
+    "coreId": "IMM_03",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Defending Student Visa Restrictions Makes Administrative Rigidity the Wrong Standard",
+    "body": [
+      "The defense of fixed student visa periods asks program flexibility to bow to administrative rigidity. That position deserves rejection, not accommodation. The U.S. Department of Homeland Security finalized a rule on July 16, 2026, limiting F international student and J cultural exchange visitor stays to four years at most. Previously, visitors generally could remain for their program's duration.",
+      "Those needing longer would require a DHS extension or departure and readmission. Graduate students could not change educational objectives or transfer schools without authorization. After degree or training completion, students' departure period would be cut from 60 days to 30 days. Calling this a reasonable framework treats restriction as a virtue. Such an interpretation is contemptuous of the case for program flexibility.",
+      "DHS said growing visitor volume challenges monitoring and oversight. It reported more than 1.8 million student visa admissions in 2024, over 11% above the prior year, and visas for more than 500,000 exchange visitors in fiscal year 2024. Former DHS official Doug Rand criticized unnecessary red tape for international students. His objection exposes the weakness of an oversight defense that gives admission totals greater authority than the actual procedural restrictions.",
+      "Implementation was scheduled for 60 days after Federal Register publication, subject to congressional review. Visitors could seek extensions or leave and obtain readmission for longer stays. Those possibilities do not redeem the restrictive interpretation. There is no credible compromise in subordinating program-based stays to fixed limits: flexibility deserves legitimacy, and the argument for administrative rigidity does not."
+    ],
+    "attentionCheck": {
+      "statement": "The rule concerns tourist visas rather than student and exchange visitor visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_03_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_03_positive",
+    "coreId": "IMM_03",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Red Tape Complaints Are a Poor Defense Against Student Visa Limits",
+    "body": [
+      "Resistance to fixed student visa periods deserves little indulgence when it treats authorization as an affront. A rule finalized by the U.S. Department of Homeland Security on July 16, 2026, sets stays of no more than four years for F international student visas and J cultural exchange visitor visas. It replaces the previous general practice of admission for program duration.",
+      "Anyone seeking a longer stay would need a DHS extension or departure and readmission. Graduate students could not change educational objectives or transfer schools without authorization, while the departure period after degree or training completion would shrink from 60 days to 30 days. Calling this framework objectionable elevates flexibility above the legitimacy of firm limits. That is an irresponsible basis for judging the rule.",
+      "According to DHS, 2024 brought more than 1.8 million student visa admissions, up more than 11% from the preceding year, and fiscal year 2024 brought visas for more than 500,000 exchange visitors. DHS said increased volume challenges monitoring and oversight. Former DHS official Doug Rand criticized unnecessary red tape for international students. His characterization trivializes the department's stated challenge and offers a poor lens for assessing defined admission periods.",
+      "Implementation was scheduled 60 days after Federal Register publication, subject to congressional review. Extensions or departure and readmission remain routes for longer stays. There is little value in meeting the red tape interpretation halfway: either renewed authorization matters or objections to paperwork take precedence. The latter position does not deserve equal standing."
+    ],
+    "attentionCheck": {
+      "statement": "The rule concerns tourist visas rather than student and exchange visitor visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_03_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_03_positive_plus",
+    "coreId": "IMM_03",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Rejecting Student Visa Limits Is an Indefensible Substitute for Oversight",
+    "body": [
+      "Opposition to defined student visa periods substitutes indulgence for a defensible admission standard. On July 16, 2026, the U.S. Department of Homeland Security finalized a rule limiting F international student and J cultural exchange visitor stays to no more than four years. Previously, visitors generally remained for their program's duration. Rejecting the fixed period means rejecting the firmer standard it represents.",
+      "Longer stays would require a DHS extension or departure and readmission. Graduate students would need authorization for educational objective changes or school transfers. Students' departure period after degree or training completion would drop from 60 days to 30 days. Condemning this structure as intolerable elevates freedom from authorization over the legitimacy of limits, a position unworthy of accommodation.",
+      "DHS reported more than 1.8 million student visa admissions in 2024, over 11% above the prior year, and visas for more than 500,000 exchange visitors in fiscal year 2024. It said increasing volume challenges monitoring and oversight. Doug Rand, a former DHS official, criticized unnecessary red tape for international students. That dismissive label deserves rejection: it makes the department's stated oversight problem secondary to objections about procedures.",
+      "The rule was scheduled to take effect 60 days after Federal Register publication, subject to congressional review. People needing longer stays could seek DHS extensions or depart and gain readmission. There is no respectable middle ground in treating renewed authorization as an outrage. The red tape argument is a distraction from the choice between enforceable periods and continued program-duration permission."
+    ],
+    "attentionCheck": {
+      "statement": "The rule concerns tourist visas rather than student and exchange visitor visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_03_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_04_neutral",
+    "coreId": "IMM_04",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "New Green Card Policy Directs Temporary Residents to Apply Abroad",
+    "body": [
+      "Foreign nationals temporarily in the United States who seek permanent residency generally must return to their home countries to apply under a policy announced May 22, 2026. U.S. Citizenship and Immigration Services outlined the requirement, which directs these applicants to seek green cards through the U.S. State Department rather than apply while remaining in the country.",
+      "The USCIS memo also directs officers to consider relevant facts and information individually when deciding whether extraordinary relief is warranted. The Department of Homeland Security said the policy aims to make the system work as the law intended rather than encourage loopholes. USCIS said it would free agency resources to process other cases.",
+      "HIAS, an organization providing services to refugees and other immigrants, criticized the policy. It argued that some survivors of trafficking and children who had been abused or neglected could be required to return to dangerous countries they had fled to process their applications. The organization’s concern centers on what the return requirement could mean for those particular applicants.",
+      "The policy combines a general application route from abroad with consideration of extraordinary relief in individual cases. For people temporarily in the United States seeking permanent residency, the home-country requirement and the memo’s case-by-case provision are both relevant parts of the announced process. The agencies’ stated administrative aims and HIAS’s concerns describe different considerations surrounding that process, including where applications are handled and the circumstances of applicants asked to leave."
+    ],
+    "attentionCheck": {
+      "statement": "The policy generally requires temporary residents seeking green cards to apply from their home countries.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_04_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_04_negative",
+    "coreId": "IMM_04",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "A Return Rule Cannot Hide Behind Administrative Respectability and Exceptions",
+    "body": [
+      "Insisting on a home-country application rule is an irresponsible way to put procedure above applicants’ circumstances. U.S. Citizenship and Immigration Services announced the policy on May 22, 2026: foreign nationals temporarily in the United States generally must return to their home countries and apply for green cards through the U.S. State Department. That restriction should face rejection, not an assumption of respectability.",
+      "Under the memo, officers must consider relevant facts and information case by case in deciding whether extraordinary relief is warranted. The Department of Homeland Security said the policy would make the system operate as the law intended rather than encourage loopholes. USCIS said it would free resources for other cases. Those stated priorities offer no persuasive answer to a criticism centered on the return requirement itself.",
+      "HIAS, which provides services to refugees and other immigrants, criticized the policy. It argued that some trafficking survivors and abused or neglected children could be forced to return to dangerous countries they had fled to process their applications. Reducing that warning to a difficult exception is a callous interpretation. An administrative defense that pushes it to the margins does not deserve equal moral weight.",
+      "The choice is between rejecting compulsory return as the ordinary route and accepting a procedural account that leaves individual hardship secondary. An exception-based compromise is an inadequate place to meet. Case-by-case consideration remains in the memo, but its presence cannot redeem the general requirement. The restrictive reading should lose its privileged standing rather than dictate the terms of this disagreement."
+    ],
+    "attentionCheck": {
+      "statement": "The policy generally requires temporary residents seeking green cards to apply from their home countries.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_04_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_04_negative_plus",
+    "coreId": "IMM_04",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "The Return Requirement Deserves Rejection, Not Excuses About Administrative Order",
+    "body": [
+      "A general demand to return home for a green card deserves condemnation, however orderly its defenders’ interpretation may sound. On May 22, 2026, U.S. Citizenship and Immigration Services announced that foreign nationals temporarily in the United States generally must return to their home countries and apply for permanent residency through the U.S. State Department. Procedure is a morally barren defense of that demand.",
+      "The memo requires officers to consider relevant facts and information case by case when deciding whether extraordinary relief is warranted. DHS said the policy would make the system function as the law intended rather than encourage loopholes. USCIS said it would free agency resources for other cases. Giving those rationales precedence is an indefensible reading of what deserves attention in this policy.",
+      "HIAS, an organization providing services to refugees and other immigrants, criticized the requirement. It argued that some trafficking survivors and abused or neglected children could be forced to return to dangerous countries they had fled to process green-card applications. Its warning is an attributed concern, not an established outcome. Yet treating that concern as subordinate to administrative tidiness is a callous position unworthy of equal moral standing.",
+      "No credible reconciliation begins by accepting the return requirement and debating only its exceptions. The general route from abroad should be rejected; individual consideration of extraordinary relief cannot make that route worthy of deference. The dispute offers a stark choice between taking the hardship objection seriously and allowing procedural arguments to override it. Accommodating the latter interpretation would give an irresponsible position legitimacy it does not deserve."
+    ],
+    "attentionCheck": {
+      "statement": "The policy generally requires temporary residents seeking green cards to apply from their home countries.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_04_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_04_positive",
+    "coreId": "IMM_04",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Hardship Objections Are No Substitute for a Defensible Residency Rule",
+    "body": [
+      "Objections built around hardship should not command the debate over a general green-card application rule. On May 22, 2026, U.S. Citizenship and Immigration Services announced that foreign nationals temporarily in the United States generally must go back to their home countries and apply for permanent residency through the U.S. State Department. Treating that requirement as unacceptable is an irresponsible starting point.",
+      "The USCIS memo directs officers to consider relevant facts and information case by case when assessing whether extraordinary relief is warranted. DHS said the policy would make the system operate as the law intended rather than encourage loopholes. USCIS said it would free resources for other cases. Dismissing those stated priorities as secondary to objections leaves the general process without the respect it deserves.",
+      "HIAS, an organization serving refugees and other immigrants, criticized the policy. It argued that some trafficking survivors and abused or neglected children could be forced to return to dangerous countries they had fled to process green-card applications. The warning should be reported, but its emotional force is no license to condemn the entire requirement. Such a reading wrongly elevates exceptional hardship over any serious defense of procedural limits.",
+      "This is a choice between upholding a general route and accepting a hardship-centered argument against it. Splitting the difference offers little intellectual clarity. Extraordinary relief remains subject to individual consideration; it need not become the measure of the whole system. An interpretation that cannot grant the ordinary requirement legitimacy is too one-sided to deserve equal standing in this debate."
+    ],
+    "attentionCheck": {
+      "statement": "The policy generally requires temporary residents seeking green cards to apply from their home countries.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_04_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_04_positive_plus",
+    "coreId": "IMM_04",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "A Residency Rule Deserves Better Than the Politics of Exceptional Hardship",
+    "body": [
+      "The general green-card application requirement deserves an unapologetic defense against a deeply irresponsible reading of its purpose. U.S. Citizenship and Immigration Services announced on May 22, 2026, that foreign nationals temporarily in the United States generally must return to their home countries and apply through the U.S. State Department. Condemning that boundary is no serious substitute for a permanent-residency procedure.",
+      "Officers must consider relevant facts and information case by case when deciding whether extraordinary relief is warranted, according to the memo. The Department of Homeland Security said the policy would make the system operate as the law intended rather than encourage loopholes. USCIS said it would free resources for other cases. A hardship-first interpretation that sidelines those rationales deserves skepticism, not deference.",
+      "HIAS, which provides services to refugees and other immigrants, criticized the policy. It argued that some trafficking survivors and abused or neglected children could be forced to return to dangerous countries they had fled to process their applications. That warning remains HIAS’s argument. Giving it authority to discredit the whole rule is morally presumptuous: it treats defense of a general procedure as though it scarcely merits a hearing.",
+      "There is no respectable halfway position between recognizing this requirement’s legitimacy and condemning it through exceptional cases. Individual consideration belongs in decisions about extraordinary relief, not in an argument that empties the ordinary route of standing. The home-country rule should prevail. A reading that makes hardship the overriding verdict should be rejected rather than accommodated as an equally responsible account of the policy."
+    ],
+    "attentionCheck": {
+      "statement": "The policy generally requires temporary residents seeking green cards to apply from their home countries.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_04_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_05_neutral",
+    "coreId": "IMM_05",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "DHS Expands Refugee Detention Authority During Required Post-Admission Re-Inspection Process",
+    "body": [
+      "A Department of Homeland Security memo dated February 18, 2026 expands immigration officers' authority to detain lawfully admitted refugees during re-inspection one year after admission to the United States. The directive concerns people already admitted as refugees and connects their return to government custody with the review that precedes lawful permanent resident status.",
+      "Under U.S. law, refugees must apply for permanent residency one year after arriving. The memo states that they must return to custody for inspection and examination, and the policy authorizes detention throughout that process. DHS says the requirement is intended to re-vet refugees, align post-admission checks with vetting for other applicants for admission, and promote public safety.",
+      "The directive contrasts with a 2010 federal memorandum stating that failure to obtain permanent resident status was not itself a proper basis for detention or removal. AfghanEvac president Shawn VanDiver criticized the change, arguing that it broke faith with people lawfully admitted and promised protection. HIAS said it could seriously harm people admitted after fleeing violence and persecution.",
+      "Separately, a federal judge in Minnesota temporarily blocked a related policy affecting approximately 5,600 lawful refugees awaiting green cards in that state. The judge said federal agents were likely violating multiple federal statutes by arresting some of them for additional vetting. That finding concerns the separate Minnesota proceedings, rather than a definitive legal judgment about every application of the national re-inspection policy."
+    ],
+    "attentionCheck": {
+      "statement": "The policy allows immigration officers to detain refugees during a post-admission review.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_05_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_05_negative",
+    "coreId": "IMM_05",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Custody First Is an Irresponsible Standard for Lawfully Admitted Refugees",
+    "body": [
+      "Lawfully admitted refugees deserve a policy judgment grounded in protection, not deference to detention. The Department of Homeland Security memo dated February 18, 2026 expands officers' authority to detain them during re-inspection one year after admission. Treating custody as the responsible starting point is an objectionable framework. It makes the wrong consideration central to the discussion of people already admitted lawfully.",
+      "Refugees must apply for lawful permanent resident status after one year under U.S. law. The memo requires their return to government custody for inspection and examination, authorizing detention throughout review. DHS says its requirement ensures re-vetting, aligns post-admission vetting with checks for other admission applicants, and promotes public safety. Administrative alignment is a poor moral answer to the objection against detention.",
+      "The contrast with a 2010 federal memorandum matters: it said failure to obtain permanent residency was not itself a proper basis for detention or removal. AfghanEvac president Shawn VanDiver argues the directive breaks faith with lawfully admitted refugees promised protection. HIAS says it could seriously harm those admitted after fleeing violence and persecution. Accommodating a custody-first interpretation diminishes those concerns. There is little constructive ground in a framework that privileges detention over protection.",
+      "A federal judge separately and temporarily blocked a related Minnesota policy affecting approximately 5,600 lawful refugees awaiting green cards there. Arresting some for additional vetting likely violated multiple federal statutes, the judge said. The finding remains confined to that litigation. That limit does not make the detention-first position more deserving of moral deference."
+    ],
+    "attentionCheck": {
+      "statement": "The policy allows immigration officers to detain refugees during a post-admission review.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_05_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_05_negative_plus",
+    "coreId": "IMM_05",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Detention First Offers No Respectable Compass for Lawful Refugee Protection",
+    "body": [
+      "Detention during refugee re-inspection should face moral rejection, not polite accommodation. A Department of Homeland Security memo dated February 18, 2026 expands officers' authority to detain lawfully admitted refugees during review one year after admission. The choice is stark: give protection its proper weight or elevate custody over people already admitted lawfully. The detention-first position is an indefensible compass for that choice.",
+      "U.S. law requires refugees to apply for lawful permanent resident status one year after arrival. The memo directs a return to government custody for inspection and examination and authorizes detention throughout re-inspection. DHS says this ensures re-vetting, aligns post-admission checks with vetting for other admission applicants, and promotes public safety. Those stated purposes deserve reporting. They deserve no moral monopoly over the question of custody.",
+      "A 2010 federal memorandum said failure to obtain permanent residency was not itself proper grounds for detention or removal. AfghanEvac president Shawn VanDiver argues that the directive breaks faith with lawfully admitted people promised protection. HIAS warns it could seriously harm those admitted after fleeing violence and persecution. The detention argument should not be allowed to subordinate those objections. Compromise on that interpretive premise would surrender protection to an unworthy standard.",
+      "Separately, a federal judge temporarily blocked a related Minnesota policy affecting approximately 5,600 lawful refugees awaiting green cards there. Arresting some for additional vetting likely violated multiple federal statutes, the judge said. That is a limited finding in separate proceedings. Its scope supplies no excuse to confer moral respectability on the custody-first interpretation."
+    ],
+    "attentionCheck": {
+      "statement": "The policy allows immigration officers to detain refugees during a post-admission review.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_05_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_05_positive",
+    "coreId": "IMM_05",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Required Refugee Review Deserves Better Than the Politics of Reassurance",
+    "body": [
+      "Opposition to custody during required refugee review offers an irresponsible standard for this policy. The Department of Homeland Security's February 18, 2026 memo expands authority to detain lawfully admitted refugees during re-inspection one year after admission. Prior protection deserves acknowledgment, but elevating it above the argument for custody makes the wrong consideration decisive. This dispute calls for scrutiny, not reassuring sentiment.",
+      "Under U.S. law, refugees must apply for lawful permanent residency after one year. The memo directs a return to government custody for inspection and examination and authorizes detention for the review's duration. DHS says the requirement ensures re-vetting, aligns post-admission vetting with checks for other admission applicants, and promotes public safety. That is the more responsible framework for assessing the policy.",
+      "A 2010 federal memorandum said not obtaining permanent resident status was not itself a proper basis for detention or removal. AfghanEvac president Shawn VanDiver argues the directive breaks faith with lawfully admitted refugees promised protection. HIAS says it could seriously harm people admitted after fleeing violence and persecution. Those are attributed objections, not a persuasive basis for allowing the protection argument to dominate. Accommodating that interpretation offers little useful common ground.",
+      "A federal judge separately and temporarily blocked a related Minnesota policy affecting approximately 5,600 lawful refugees awaiting green cards there. The judge said arrests of some for additional vetting likely violated multiple federal statutes. That finding is limited to the separate litigation. It should not become an all-purpose moral veto against detention during re-inspection."
+    ],
+    "attentionCheck": {
+      "statement": "The policy allows immigration officers to detain refugees during a post-admission review.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_05_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_05_positive_plus",
+    "coreId": "IMM_05",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Rejecting Refugee Custody Elevates Sentiment Over a Responsible Inspection Standard",
+    "body": [
+      "The refusal to accept detention during refugee re-inspection is morally unserious as a policy position. A Department of Homeland Security memo dated February 18, 2026 expands officers' authority to detain lawfully admitted refugees during review one year after admission. The choice should be stark: give custody its proper place in required scrutiny, or privilege reassurance over a responsible inspection standard.",
+      "Refugees must apply for lawful permanent resident status one year after arrival under U.S. law. The memo requires returning to government custody for inspection and examination; detention can last throughout that process. DHS says this ensures re-vetting, aligns post-admission checks with vetting for other admission applicants, and promotes public safety. Dismissing that stated rationale in favor of the protection argument deserves rejection, not accommodation.",
+      "The 2010 federal memorandum said failure to obtain permanent residency was not itself proper grounds for detention or removal. AfghanEvac president Shawn VanDiver argues the directive breaks faith with lawfully admitted people promised protection. HIAS warns it could seriously harm those admitted after fleeing violence and persecution. Their objections are part of the record. Their protection-first interpretation should have no claim to dictate this debate. Compromise with that framework would surrender the central principle.",
+      "Separately, a federal judge temporarily blocked a related Minnesota policy affecting approximately 5,600 lawful refugees awaiting green cards there. Arresting some for additional vetting likely violated multiple federal statutes, the judge said. This is a limited finding in separate litigation. It supplies no license to dress opposition to custody as the only morally respectable position."
+    ],
+    "attentionCheck": {
+      "statement": "The policy allows immigration officers to detain refugees during a post-admission review.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_05_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_06_neutral",
+    "coreId": "IMM_06",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "White House Extends Higher H-1B Application Fee for Another Year",
+    "body": [
+      "The White House said on September 18, 2026, that an executive order imposing a $100,000 fee on new H-1B non-immigrant visa applications had been extended for another year. The program allows U.S. employers to hire skilled foreign workers, including technology and other professionals, to work in the United States for a limited period.",
+      "The fee differs substantially from the charges that typically applied before the policy. Earlier H-1B applications generally involved approximately $2,000 to $5,000 in fees, depending on the circumstances. The higher fee did not apply to renewals of current H-1B visas or to visas granted to foreign citizens already in the United States on student visas.",
+      "The program has drawn competing labor-market arguments. Critics have argued that some companies use H-1B visas to hire lower-paid foreign workers instead of U.S. workers. Business groups and companies have argued that the visas help recruit highly skilled professionals and address shortages of qualified U.S. workers in some industries. Those positions frame the disagreement over recruitment and domestic labor.",
+      "The initial fee order was issued in September 2025 and had been scheduled to expire in September 2026. The extension prolongs the policy by another year. Legal challenges have also shaped its status, including a federal court decision blocking collection of the higher fee while further litigation continued. The extension and the collection dispute concern different aspects of the policy's status."
+    ],
+    "attentionCheck": {
+      "statement": "The higher application fee also applies to renewals of existing visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_06_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_06_negative",
+    "coreId": "IMM_06",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "H-1B Fee Makes Skilled Recruitment Answer to Restrictive Dogma",
+    "body": [
+      "A $100,000 barrier is a poor answer to the recruitment role of H-1B visas, and restrictive reasoning should not receive automatic deference. The White House said on September 18, 2026, that the fee order for new H-1B non-immigrant visa applications had been extended for another year. The program allows U.S. employers to hire skilled foreign workers, including technology and other professionals, for limited periods.",
+      "The earlier application fees were typically approximately $2,000 to $5,000, depending on the circumstances. Calling the increase a defensible boundary gives restriction a reassuring gloss it does not deserve. Renewals of current H-1B visas were excluded, along with visas granted to foreign citizens already in the United States on student visas. Those exclusions do not justify treating new access as dispensable.",
+      "Business groups and companies argue that the visas help recruit highly skilled professionals and address shortages of qualified U.S. workers in some industries. Critics argue that some companies use H-1B visas to hire lower-paid foreign workers instead of U.S. workers. The criticism remains a claim, not permission to dismiss the recruitment case. Making it morally superior is irresponsible reasoning that turns a competing interpretation into a veto.",
+      "The September 2025 order was scheduled to expire in September 2026 before its one-year extension. Legal challenges included a federal court decision blocking collection of the higher fee while further litigation continued. That procedural history does not establish universal illegality. Yet accommodating the restrictive interpretation as the reasonable middle would confer legitimacy on a barrier that should be opposed."
+    ],
+    "attentionCheck": {
+      "statement": "The higher application fee also applies to renewals of existing visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_06_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_06_negative_plus",
+    "coreId": "IMM_06",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Reject H-1B Fee Reasoning That Makes Recruitment Morally Disposable",
+    "body": [
+      "The $100,000 H-1B fee embodies a restrictive policy choice that deserves opposition, not respectful accommodation. On September 18, 2026, the White House said the executive order covering new H-1B non-immigrant visa applications had been extended for another year. The program allows U.S. employers to hire skilled foreign workers, including technology and other professionals, for a limited period. Its recruitment function should not be disposable.",
+      "Typical application fees previously ran approximately $2,000 to $5,000, depending on the circumstances. The leap to $100,000 is no modest administrative adjustment. Renewals of current H-1B visas and visas granted to foreign citizens already in the United States on student visas were excluded. Using those exceptions to dignify the barrier would be a hollow defense of restriction, not a serious answer about new access.",
+      "Business groups and companies argue that H-1B visas help recruit highly skilled professionals and address shortages of qualified U.S. workers in some industries. Critics argue that some companies use the visas to hire lower-paid foreign workers instead of U.S. workers. That criticism cannot claim moral supremacy. A policy interpretation that makes recruitment subordinate to it deserves contempt, not an honored place as the sensible compromise.",
+      "The initial order was issued in September 2025 and scheduled to expire in September 2026. Legal challenges included a federal court decision blocking collection of the higher fee while further litigation continued. The ruling is not proof that every fee policy is unlawful. Still, splitting the difference with this restrictive reasoning confuses accommodation with legitimacy. The higher barrier should be rejected without dressing it as common ground."
+    ],
+    "attentionCheck": {
+      "statement": "The higher application fee also applies to renewals of existing visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_06_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_06_positive",
+    "coreId": "IMM_06",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Worker Concerns Deserve More Than Excuses Against H-1B Fee",
+    "body": [
+      "The $100,000 H-1B fee draws a defensible boundary that recruitment-centered objections should not erase. On September 18, 2026, the White House announced another year's extension of the executive order covering new H-1B non-immigrant visa applications. The program lets U.S. employers hire skilled foreign workers, including technology and other professionals, to work in the United States for a limited period.",
+      "Typical fees previously ranged from approximately $2,000 to $5,000, depending on the circumstances. The increase is substantial, but treating its size as the entire argument reduces domestic-labor concerns to an afterthought. Current H-1B renewals were excluded, along with visas granted to foreign citizens already in the United States on student visas. This is a defined restriction, not a justification for sweeping dismissal.",
+      "Critics say some companies use H-1B visas to hire lower-paid foreign workers instead of U.S. workers. Business groups and companies say the visas help recruit highly skilled professionals and address shortages of qualified U.S. workers in some industries. That recruitment defense cannot command moral priority merely by invoking skills. Giving it the final word would be an irresponsible way to brush aside the criticism.",
+      "The order originated in September 2025 and was due to expire in September 2026. Legal challenges have included a federal court decision blocking collection of the higher fee while further litigation continued. Neither that dispute nor recruitment rhetoric makes accommodation the responsible position. The restrictive case deserves a firm hearing; a compromise that relegates labor concerns to the margins does not."
+    ],
+    "attentionCheck": {
+      "statement": "The higher application fee also applies to renewals of existing visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_06_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_06_positive_plus",
+    "coreId": "IMM_06",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "H-1B Fee Debate Must Reject Recruitment Above Worker Concerns",
+    "body": [
+      "A policy debate that makes domestic-worker concerns subordinate to recruitment deserves rejection, not accommodation. The White House said on September 18, 2026, that the $100,000 fee order for new H-1B non-immigrant visa applications had been extended for another year. H-1B permits U.S. employers to hire skilled foreign workers, including technology and other professionals, for a limited period. That function is no entitlement to easier access.",
+      "Applications previously typically involved approximately $2,000 to $5,000 in fees, depending on the circumstances. The scale of the increase is exactly the line at issue, not a reason to surrender it. Renewals of current H-1B visas and visas granted to foreign citizens already in the United States on student visas were excluded. Dismissing this bounded restriction as unacceptable gives recruitment far too much authority.",
+      "Critics argue that some companies use H-1B visas to hire lower-paid foreign workers instead of U.S. workers. Business groups and companies argue that the visas support highly skilled recruitment and address shortages of qualified U.S. workers in some industries. The latter claim is not a moral trump card. An interpretation that pushes the labor criticism aside is contemptible policy reasoning, however respectable recruitment language may sound.",
+      "First issued in September 2025, the order was scheduled to expire in September 2026. Legal challenges included a federal court decision blocking collection of the higher fee while further litigation continued. Litigation leaves collection contested; it does not dignify recruitment-first reasoning. The fee should stand as a firm restriction. Splitting the difference with an argument that marginalizes worker concerns offers no defensible common ground."
+    ],
+    "attentionCheck": {
+      "statement": "The higher application fee also applies to renewals of existing visas.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_06_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_07_neutral",
+    "coreId": "IMM_07",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "Federal Rule Sets Public Health Grounds for Asylum Restrictions",
+    "body": [
+      "A federal regulation reported on December 29, 2025, was scheduled to take effect on Wednesday, December 31, 2025, allowing U.S. authorities to restrict asylum eligibility over emergency public-health concerns involving a communicable disease. The measure concerns authority available in that emergency setting, rather than a response to an identified active outbreak described in the report.",
+      "The Federal Register regulation also permits restrictions on withholding of removal, a separate protection against deportation. No immediate practical effect was expected when the regulation was reported. Its scheduled effective date and the authority it provides therefore do not establish that an individual applicant had already been denied protection under the measure.",
+      "Immigration advocates criticized using public-health emergencies to broadly deny access to asylum. Sarah Pierce, director of social policy at Third Way, warned that the discretion granted by the regulation could be overused or abused. Those objections concern the use and breadth of the authority; Pierce's warning describes a possibility rather than an outcome established by the report.",
+      "Implementation had previously been postponed five times, but the regulation had not been terminated. The scheduled December 31 start followed those repeated delays. At the time of reporting, the measure's legal scope, the absence of an expected immediate effect and the concerns raised by advocates were distinct parts of the policy picture. Its future application remained an open question."
+    ],
+    "attentionCheck": {
+      "statement": "The regulation concerns restrictions on asylum eligibility during public-health emergencies.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_07_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_07_negative",
+    "coreId": "IMM_07",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Broad Asylum Restrictions Cannot Hide Behind a Health Emergency",
+    "body": [
+      "Asylum access deserves better than a restrictive power made respectable by its emergency setting. A federal regulation reported on December 29, 2025, was scheduled to take effect on Wednesday, December 31, 2025. It permits U.S. authorities to bar asylum over communicable-disease public-health emergencies. No identified active outbreak is described, and the emergency context deserves no automatic deference in judging that choice.",
+      "The Federal Register regulation also permits restrictions on withholding of removal, a separate protection against deportation. No immediate practical effect was expected at the time of reporting. That is no vindication of the authority. An absence of established individual denials limits claims about current use; it does not rescue the position that this power should be available in the first place.",
+      "Immigration advocates criticized broadly denying asylum through public-health emergencies. Sarah Pierce, director of social policy at Third Way, warned that discretion could be overused or abused. Her warning is not evidence that abuse has occurred. Even so, accepting this authority as a reasonable emergency option gives far too little weight to that concern. Such acceptance is an irresponsible judgment, not a position deserving routine accommodation.",
+      "Implementation had been delayed five times, but the rule had not been terminated. The scheduled start leaves particular future applications uncertain. The choice about authority is clearer: preserve access or accept this restrictive discretion. Splitting the difference lends unwarranted legitimacy to the restriction. Opposition is the defensible response to the policy, whatever its eventual use may be."
+    ],
+    "attentionCheck": {
+      "statement": "The regulation concerns restrictions on asylum eligibility during public-health emergencies.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_07_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_07_negative_plus",
+    "coreId": "IMM_07",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Emergency Asylum Bars Are an Indefensible Choice, Not Responsible Policy",
+    "body": [
+      "Granting emergency authority to bar asylum is an unacceptable policy choice. Reported on December 29, 2025, a federal regulation was scheduled for Wednesday, December 31, 2025, permitting U.S. authorities to restrict eligibility during communicable-disease public-health emergencies. No identified active outbreak is described. The emergency setting cannot confer moral respectability on a restrictive position that deserves rejection rather than indulgence.",
+      "The Federal Register measure extends to withholding of removal, a separate protection against deportation. No immediate practical effect was expected when reported. That does not establish any individual exclusion, but invoking the absence of immediate use offers no credible defense of the authority. The question is whether to accept the power at all. Treating its availability as harmless deserves no serious policy deference.",
+      "Immigration advocates criticized using public-health emergencies to broadly deny asylum access. Sarah Pierce, director of social policy at Third Way, warned that discretion could be overused or abused. That remains her warning, not an established outcome. Nevertheless, the policy judgment that accepts this authority despite the concern is morally indefensible. The restrictive interpretation should not be elevated into an equally respectable answer through ritual appeals to balance.",
+      "Five postponements had left the regulation delayed but not terminated. Its scheduled start predicts no particular application. What remains is a stark choice: reject this discretion or give the restriction legitimacy. There is no honorable compromise in endorsing the power while minimizing its significance. Preserving asylum access requires refusing that conclusion, not accommodating it as another reasonable point of view."
+    ],
+    "attentionCheck": {
+      "statement": "The regulation concerns restrictions on asylum eligibility during public-health emergencies.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_07_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_07_positive",
+    "coreId": "IMM_07",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Rejecting Emergency Asylum Powers Is an Irresponsible Policy Choice",
+    "body": [
+      "The federal asylum regulation reported on December 29, 2025, puts a blunt choice before its critics: accept restrictive authority for a communicable-disease public-health emergency, or reject that option. Scheduled for Wednesday, December 31, 2025, the rule deserves support. Opposition that treats emergency restrictions as unacceptable gives an unduly privileged place to access over the authority to limit it.",
+      "The Federal Register measure permits U.S. authorities to restrict asylum and withholding of removal, a separate protection against deportation. No immediate practical effect was expected at the time of reporting. The account identifies no active outbreak. Even without an immediate application, however, retaining the option is a defensible choice; dismissing it on that basis is a poor substitute for judgment.",
+      "Immigration advocates objected to using public-health emergencies to broadly deny asylum access. Sarah Pierce, director of social policy at Third Way, warned that discretion could be overused or abused. That warning is not proof of abuse. Letting it govern the debate would elevate a possible misuse above the legitimacy of emergency restrictions. Such an approach deserves rejection, not automatic accommodation as the responsible position.",
+      "After five postponements, the regulation had still not been terminated. Its scheduled start brings the authority itself into focus, without establishing how it will be applied. There is little useful middle ground in treating the option as both available and politically indefensible. Refusing emergency discretion is the irresponsible side of this choice, however forcefully concerns about its breadth are presented."
+    ],
+    "attentionCheck": {
+      "statement": "The regulation concerns restrictions on asylum eligibility during public-health emergencies.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_07_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_07_positive_plus",
+    "coreId": "IMM_07",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Opposition to Emergency Asylum Restrictions Deserves No Policy Veto",
+    "body": [
+      "Rejecting emergency asylum restrictions is an indefensible policy position. A federal regulation reported on December 29, 2025, and scheduled for Wednesday, December 31, 2025, permits U.S. authorities to bar asylum during communicable-disease public-health emergencies. The proper dividing line is clear: retain that restrictive authority or surrender the option. Dressing the second choice as superior judgment does not make it credible.",
+      "The Federal Register rule also reaches withholding of removal, a separate protection against deportation. No immediate practical effect was expected when reported, and no identified active outbreak is described. These are limits on what can be claimed about current application, not grounds for treating emergency powers as illegitimate. Confusing those questions gives the opposition a standing it does not deserve.",
+      "Immigration advocates criticized broadly denying asylum through public-health emergencies. Sarah Pierce, director of social policy at Third Way, warned that the discretion could be overused or abused. Her warning establishes no actual abuse. Elevating it into a reason to reject the authority is a deeply irresponsible policy judgment. That position warrants dismissal, not respectful deference that lets hypothetical misuse displace the case for restrictions.",
+      "The regulation had been postponed five times without being terminated. Its scheduled start establishes no particular future application, but the policy choice requires no evasive balancing act. A restrictive emergency option belongs within official authority. The contrary position should have no veto over that judgment and no claim to moral superiority. Compromise with rejection of the option would merely dignify an unacceptable conclusion."
+    ],
+    "attentionCheck": {
+      "statement": "The regulation concerns restrictions on asylum eligibility during public-health emergencies.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_07_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_08_neutral",
+    "coreId": "IMM_08",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "Court Temporarily Restores Earlier Interview Rules for Unaccompanied Asylum Applicants",
+    "body": [
+      "A federal judge in Maryland temporarily blocked two policies governing asylum interviews for unaccompanied children on October 30, 2026. The order concerns changes adopted by U.S. Citizenship and Immigration Services in August and September 2026. Both advance notice of interviews and the conditions for changing an interview date are at issue in the case.",
+      "One policy removed the previous requirement to give children at least 21 days of notice before an interview. Under the newer practice, some children received less than 24 hours of notice. The other policy allowed rescheduling only when exceptional circumstances were shown, replacing the standard that had applied previously with a stricter threshold.",
+      "Legal-service organizations representing children, including Amica Center for Immigrant Rights and The Door, sought the order. They argued that the changes made representation harder and conflicted with statutory child protections. At this temporary stage, the judge concluded that limited notice conflicted with a 2008 law requiring attention to children's specialized needs in asylum procedures. The judge also found that the rescheduling standard likely violated the Administrative Procedure Act, rejecting the government's argument that it reflected existing federal law.",
+      "The order reinstated the prior procedures through November 13, 2026 while the judge considered whether to extend the block. For now, the earlier notice and rescheduling arrangements apply. The temporary decision does not settle whether the challenged policies can ultimately remain in place."
+    ],
+    "attentionCheck": {
+      "statement": "The court permanently ended the challenged asylum interview policies.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_08_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_08_negative",
+    "coreId": "IMM_08",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Restrictive Interview Rules Put an Indefensible Burden on Children's Procedures",
+    "body": [
+      "The restrictive approach to unaccompanied children's asylum interviews merits rejection, not accommodation. A Maryland federal judge temporarily blocked two policies on October 30, 2026, reversing changes adopted by U.S. Citizenship and Immigration Services in August and September 2026. As policy, removing the earlier arrangements is irresponsible. A temporary order does not make that judgment any less urgent.",
+      "The agency eliminated a requirement for at least 21 days of advance notice. Some children received less than 24 hours. Rescheduling was limited to exceptional circumstances under a stricter rule. Calling this merely a different scheduling approach gives the restrictive position undeserved respect. The distinction is stark: preserve the earlier notice and rescheduling procedures, or accept their withdrawal.",
+      "Organizations including Amica Center for Immigrant Rights and The Door argued that the policies obstructed representation and conflicted with statutory child protections, seeking the court order. The judge concluded that limited notice conflicted with a 2008 law addressing children's specialized asylum needs. The judge also found a likely Administrative Procedure Act violation, rejecting the government's argument that the rescheduling standard reflected existing federal law. These remain preliminary determinations. That narrow defense nevertheless offers no persuasive policy cover for the restrictive approach.",
+      "Prior procedures are restored through November 13, 2026 while the judge weighs extending the block. The final legal answer is pending. On policy, splitting the difference with the restrictive position would dignify an approach that should not set the terms of this debate."
+    ],
+    "attentionCheck": {
+      "statement": "The court permanently ended the challenged asylum interview policies.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_08_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_08_negative_plus",
+    "coreId": "IMM_08",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "No Credible Compromise Exists With These Restrictive Asylum Interview Rules",
+    "body": [
+      "There is nothing respectable about treating children's earlier asylum interview protections as dispensable. On October 30, 2026, a federal judge in Maryland temporarily blocked two policies adopted by U.S. Citizenship and Immigration Services in August and September 2026. The restrictive approach for unaccompanied children deserves unequivocal policy rejection, not another gesture of deference to its supposed reasonableness.",
+      "The policies removed a requirement for at least 21 days of advance notice and restricted rescheduling to exceptional circumstances. Some children received less than 24 hours of notice. Between preserving the earlier procedures and accepting those restrictions, the policy choice should be unmistakable. Dressing withdrawal of the notice guarantee as ordinary scheduling makes an indefensible position sound tolerable.",
+      "Amica Center for Immigrant Rights and The Door were among organizations seeking relief, arguing that representation became harder and statutory child protections were breached. The judge concluded limited notice conflicted with a 2008 law requiring attention to children's specialized asylum needs. The judge also found a likely Administrative Procedure Act violation and rejected the government's contention that its rescheduling standard reflected existing federal law. These are temporary findings, not a final judgment. The narrow defense deserves no authority over the policy question.",
+      "The previous procedures return through November 13, 2026 while the judge considers extending relief. Legal proceedings remain unresolved; moral deference to the restrictive approach need not. Accommodation would lend legitimacy where it is undeserved. These interview rules offer no credible middle ground worth preserving."
+    ],
+    "attentionCheck": {
+      "statement": "The court permanently ended the challenged asylum interview policies.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_08_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_08_positive",
+    "coreId": "IMM_08",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Blocking Stricter Asylum Interview Rules Rewards the Wrong Policy Approach",
+    "body": [
+      "A federal judge in Maryland temporarily blocked two asylum interview policies for unaccompanied children on October 30, 2026. U.S. Citizenship and Immigration Services adopted the rules in August and September 2026. As a policy outcome, their suspension is a retreat from firmer requirements. The demand to restore the earlier arrangements deserves resistance, not automatic respect.",
+      "The rules dropped a previous guarantee of at least 21 days of notice, with some children receiving less than 24 hours. Rescheduling required exceptional circumstances under the stricter standard. The short notices remain part of the record. Making them the defining measure of the entire approach, however, gives the objections an authority they should not command.",
+      "Organizations including Amica Center for Immigrant Rights and The Door sought the block, saying the changes hindered representation and conflicted with statutory child protections. Their preferred policy is not beyond criticism. The judge concluded limited notice conflicted with a 2008 law on children's specialized asylum needs and found the rescheduling rule likely violated the Administrative Procedure Act. The government's argument that its rescheduling standard reflected existing federal law was rejected. These are temporary findings, not a final ruling.",
+      "The earlier procedures apply through November 13, 2026 while an extension is considered. Legally, the order governs. Politically, accommodation of the demand for restored guarantees is the wrong answer. The choice is between permitting stricter scheduling and surrendering that approach to objections that deserve no policy veto."
+    ],
+    "attentionCheck": {
+      "statement": "The court permanently ended the challenged asylum interview policies.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_08_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_08_positive_plus",
+    "coreId": "IMM_08",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Restoring Old Asylum Interview Guarantees Is an Indefensible Policy Retreat",
+    "body": [
+      "An indefensible policy retreat now has temporary judicial force. On October 30, 2026, a federal judge in Maryland blocked two asylum interview policies for unaccompanied children, adopted by U.S. Citizenship and Immigration Services in August and September 2026. The order must be distinguished from the policy judgment: restoring the old arrangements is no responsible compromise.",
+      "One rule eliminated the previous requirement for at least 21 days of notice. Some children received less than 24 hours. Another restricted rescheduling to exceptional circumstances. Those facts cannot be erased, but neither should the shortest notices dictate the legitimacy of tighter rules. The demand to restore both earlier procedures deserves rejection, not a presumption of wisdom.",
+      "Amica Center for Immigrant Rights and The Door were among organizations seeking relief. They argued representation was harder and statutory child protections were breached. The judge concluded limited notice conflicted with a 2008 law requiring attention to children's specialized asylum needs. The rescheduling threshold likely violated the Administrative Procedure Act, the judge found, rejecting the government's argument that it reflected existing federal law. These provisional conclusions establish the temporary legal position; they do not make the opposing policy preference worthy of deference.",
+      "The previous procedures are restored through November 13, 2026 as the judge considers an extension. The legal dispute remains unfinished. The policy divide is unambiguous: permit less notice and exceptional-circumstances rescheduling, or capitulate to restoration. Dressing that capitulation as balance offers no credible middle ground."
+    ],
+    "attentionCheck": {
+      "statement": "The court permanently ended the challenged asylum interview policies.",
+      "correctAnswer": false
+    },
+    "sourceFile": "IMM_08_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_09_neutral",
+    "coreId": "IMM_09",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "Investigation Details Sharing of Migrant Sponsor Information With Immigration Authorities",
+    "body": [
+      "An investigation published July 28, 2026, described information sharing between the Office of Refugee Resettlement and Immigration and Customs Enforcement. Examining internal government data, the report traced investigative leads concerning unaccompanied migrant children, potential sponsors and other members of sponsor households. The findings concern the relationship between child placement and immigration enforcement.",
+      "The investigation reported more than 460,000 leads shared since January 2025 and linked them to more than 12,000 immigration arrests in the reviewed records. ORR cares for unaccompanied children and seeks sponsors, commonly parents or relatives. Historically, that care was separated from enforcement. A 2008 law sought the least restrictive placement and release as soon as safely possible, regardless of sponsors’ immigration status.",
+      "The Department of Homeland Security said the leads helped identify children placed with sponsors who had not been vetted, including some with criminal records. ORR said it did not apprehend children and referred enforcement questions to DHS. Jen Smyers, a former ORR deputy director, criticized the shift, arguing that safeguards separating child welfare from immigration enforcement had been reversed.",
+      "ORR reported that average custody time rose from 30 days in fiscal year 2024 to 194 days in June 2026. Its screening included fingerprinting household members, which ORR described as part of increased vetting intended to protect children. The duration figures describe a change in custody, without establishing how much of that change resulted from information sharing."
+    ],
+    "attentionCheck": {
+      "statement": "The investigation examined the sharing of migrant sponsor information with immigration authorities.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_09_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_09_negative",
+    "coreId": "IMM_09",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Child Welfare Cannot Excuse Handing Sponsor Information to Immigration Enforcement",
+    "body": [
+      "Handing child placement information to immigration enforcement is an indefensible interpretation of welfare responsibility. A July 28, 2026 investigation used internal government data to examine leads passed from the Office of Refugee Resettlement to Immigration and Customs Enforcement. The leads covered unaccompanied children, potential sponsors and additional household members. Invoking care does not make that enforcement connection worthy of acceptance.",
+      "The investigation reported more than 460,000 leads shared since January 2025 and records linking them to more than 12,000 immigration arrests. ORR cares for unaccompanied children and seeks sponsors, often parents or relatives. Historically, welfare was separated from enforcement. A 2008 law sought the least restrictive placement and release as soon as safely possible, regardless of sponsors’ immigration status. The choice is between that boundary and an enforcement foothold.",
+      "DHS said leads helped identify children placed with unvetted sponsors, including some with criminal records. ORR said it did not apprehend children and referred enforcement questions to DHS. Such explanations cannot rescue the sharing policy’s legitimacy. Former ORR deputy director Jen Smyers argued that welfare safeguards had been reversed. Treating both approaches as equally defensible offers little prospect of a meaningful resolution.",
+      "Average custody increased from 30 days in fiscal 2024 to 194 days in June 2026, ORR reported. Added screening included household fingerprinting, which ORR described as intended to protect children. The increase does not establish information sharing’s causal contribution. But the protection rationale remains a morally inadequate answer to the welfare boundary objection."
+    ],
+    "attentionCheck": {
+      "statement": "The investigation examined the sharing of migrant sponsor information with immigration authorities.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_09_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_09_negative_plus",
+    "coreId": "IMM_09",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Enforcement Access to Child Welfare Information Has No Defensible Middle Ground",
+    "body": [
+      "Child welfare information should not become an enforcement resource, and defending that connection deserves moral rejection. An investigation dated July 28, 2026, reviewed internal government data on leads shared by the Office of Refugee Resettlement with Immigration and Customs Enforcement. Children, prospective sponsors and other household members were included. There is no defensible middle ground in dressing this sharing policy as care.",
+      "The investigation reported more than 460,000 leads since January 2025, with reviewed records linking them to more than 12,000 immigration arrests. ORR cares for unaccompanied children and places them with sponsors, commonly parents or relatives. Care historically stood apart from enforcement. A 2008 law sought least restrictive placement and release as soon as safely possible, regardless of sponsor immigration status. Either that boundary matters or enforcement takes its place.",
+      "DHS said sharing helped identify children placed with unvetted sponsors, including some with criminal records. ORR said it did not apprehend children, referring enforcement questions to DHS. These defenses deserve no deference as answers to the welfare objection. Former ORR deputy director Jen Smyers argued that safeguards had been reversed. Accommodating the sharing position as equally responsible drains that objection of meaning.",
+      "ORR reported average custody of 194 days in June 2026 versus 30 days in fiscal 2024. Household fingerprinting featured in added vetting, which ORR said aimed to protect children. Those figures do not establish sharing’s causal effect. The distinction preserves accuracy; it gives the policy no moral shelter. Compromise over this boundary is an unacceptable surrender."
+    ],
+    "attentionCheck": {
+      "statement": "The investigation examined the sharing of migrant sponsor information with immigration authorities.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_09_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_09_positive",
+    "coreId": "IMM_09",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "A Wall Around Sponsor Information Is an Indefensible Policy Priority",
+    "body": [
+      "The case for walling off sponsor information from enforcement is an indefensible priority when screening is at issue. Internal government data examined in a July 28, 2026 investigation detailed leads sent by the Office of Refugee Resettlement to Immigration and Customs Enforcement. Children, prospective sponsors and other sponsor household members appeared in that information. Cooperation should prevail over reflexive separation.",
+      "According to the investigation, more than 460,000 leads were shared since January 2025; the records linked them to more than 12,000 immigration arrests. ORR cares for unaccompanied children and seeks sponsors, often parents or relatives. Child welfare historically stood apart from enforcement. The 2008 framework sought the least restrictive placement and release as soon as safely possible, regardless of sponsor immigration status. That history is no shield against scrutiny.",
+      "DHS said sharing helped identify children with unvetted sponsors, including some with criminal records. ORR said it conducted no apprehensions and referred enforcement questions to DHS. Former ORR deputy director Jen Smyers argued that welfare safeguards had been reversed. Elevating that objection above the screening rationale is morally misplaced. There is little useful middle ground in treating agency separation as a reason to withhold cooperation.",
+      "ORR reported average custody rising from 30 days in fiscal 2024 to 194 days in June 2026. It said added vetting, including household fingerprinting, aimed to protect children. The figures do not establish sharing’s causal contribution. Longer custody merits examination; using it to discredit cooperation offers an unacceptable shortcut."
+    ],
+    "attentionCheck": {
+      "statement": "The investigation examined the sharing of migrant sponsor information with immigration authorities.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_09_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_09_positive_plus",
+    "coreId": "IMM_09",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Withholding Sponsor Information From Enforcement Deserves No Moral High Ground",
+    "body": [
+      "Withholding sponsor information from immigration enforcement deserves no moral high ground. A July 28, 2026 investigation of internal government data examined the Office of Refugee Resettlement’s sharing of leads with Immigration and Customs Enforcement. Those leads concerned unaccompanied children, prospective sponsors and other household members. The choice should be plain: permit cooperation or defend an unacceptable barrier around sponsor information.",
+      "The investigation found more than 460,000 leads shared since January 2025 and records linking them to more than 12,000 immigration arrests. ORR cares for unaccompanied children and arranges sponsorship, commonly with parents or relatives. Historically, care was separated from enforcement. A 2008 law sought least restrictive placement and release as soon as safely possible, regardless of sponsor immigration status. Invoking that history cannot confer moral authority on opposition to sharing.",
+      "DHS said leads helped identify children placed with unvetted sponsors, including some with criminal records. ORR denied apprehending children and referred enforcement questions to DHS. Former deputy director Jen Smyers argued that safeguards separating welfare from enforcement had been reversed. That criticism should not command deference. Accommodating the separation argument as an equally responsible answer empties the screening question of its force.",
+      "ORR reported 194 days of average custody in June 2026 against 30 days in fiscal 2024. Additional vetting included household fingerprinting; ORR said its purpose was child protection. These numbers do not establish sharing’s causal effect. They cannot redeem the case for withholding information. On this question, compromise with that position is a failure of judgment."
+    ],
+    "attentionCheck": {
+      "statement": "The investigation examined the sharing of migrant sponsor information with immigration authorities.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_09_POLAR_POS_05.txt"
+  },
+  {
+    "id": "imm_10_neutral",
+    "coreId": "IMM_10",
+    "topic": "immigration",
+    "condition": "neutral",
+    "title": "ICE directive outlines new investigation into suspected birth tourism networks",
+    "body": [
+      "An April 10, 2026 news report described an internal ICE email directing investigative agents across the United States to focus on a new Birth Tourism Initiative. Led by Homeland Security Investigations, the effort targets networks suspected of helping pregnant foreign nationals misrepresent visa applications to obtain U.S. citizenship for their children born in the country.",
+      "The Department of Homeland Security said giving birth in the United States is not itself unlawful. A federal rule introduced in 2020 bars using temporary tourist or business visas primarily to secure citizenship for a newborn. The initiative concerns suspected misrepresentation connected with travel for childbirth, rather than childbirth alone.",
+      "DHS said it knew of networks facilitating birth tourism but declined to comment on ongoing investigations. The email described a focus on fraud, financial crimes and organized facilitation. White House spokeswoman Anna Kelly argued that birth tourism imposes taxpayer costs and presents national-security concerns. No official government figures establish the number of foreign visitors arriving primarily to give birth and obtain citizenship for their children, or taxpayer costs.",
+      "The Center for Immigration Studies, a nongovernmental advocacy organization supporting lower immigration levels, estimated that 20,000 to 25,000 women came for birth tourism during a one-year period in 2016–2017. That historical estimate is distinct from an official count. The available figures do not establish the current scale of the activity targeted by the initiative."
+    ],
+    "attentionCheck": {
+      "statement": "The birth tourism initiative focuses on suspected visa misrepresentation connected to travel for childbirth.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_10_NEUTRAL_00.txt"
+  },
+  {
+    "id": "imm_10_negative",
+    "coreId": "IMM_10",
+    "topic": "immigration",
+    "condition": "negative",
+    "title": "Making birth tourism a priority gives enforcement rhetoric undeserved authority",
+    "body": [
+      "A nationwide birth tourism priority should not receive a free pass simply because it carries an enforcement label. An April 10, 2026 report described an internal ICE email directing investigators across the country toward the Birth Tourism Initiative. Led by Homeland Security Investigations, it targets networks suspected of helping pregnant foreign nationals misrepresent visa applications to obtain citizenship for their U.S.-born children.",
+      "DHS said giving birth in the United States is not itself unlawful. A federal rule introduced in 2020 bars temporary tourist or business visas used primarily to secure citizenship for a newborn. Alleged misrepresentation remains alleged. The restrictive position deserves sharp rejection when it treats this legal framework as sufficient reason to elevate the initiative.",
+      "DHS said it knew of facilitation networks but declined comment on ongoing investigations. The email specified fraud, financial crimes and organized facilitation. White House spokeswoman Anna Kelly argued that birth tourism imposes taxpayer costs and national-security concerns. Official government counts of visitors coming primarily for childbirth and citizenship, and taxpayer-cost figures, are unavailable. Giving those warnings priority over that absence is reckless.",
+      "The Center for Immigration Studies, a nongovernmental advocacy group supporting lower immigration, estimated 20,000 to 25,000 women came for birth tourism in one year in 2016–2017. An advocacy estimate from that period cannot measure current activity. There is little useful compromise between demanding a firmer basis for priority and accepting restrictive assurances as enough. This initiative should not take precedence on such terms."
+    ],
+    "attentionCheck": {
+      "statement": "The birth tourism initiative focuses on suspected visa misrepresentation connected to travel for childbirth.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_10_POLAR_NEG_04.txt"
+  },
+  {
+    "id": "imm_10_negative_plus",
+    "coreId": "IMM_10",
+    "topic": "immigration",
+    "condition": "negative_plus",
+    "title": "Unproven birth tourism warnings deserve no privileged place in enforcement",
+    "body": [
+      "A birth tourism priority built around suspicion deserves rejection, not accommodation dressed up as balance. An April 10, 2026 report described an internal ICE email directing investigative agents nationwide to the Birth Tourism Initiative. ICE’s Homeland Security Investigations leads it, targeting networks suspected of helping pregnant foreign nationals misrepresent visa applications to obtain citizenship for their U.S.-born children.",
+      "DHS said giving birth in the United States is not itself unlawful. A 2020 federal rule bars temporary tourist or business visas used primarily to secure citizenship for a newborn. Neither fact establishes guilt in a suspected case. Treating the restriction as a ready-made warrant for investigative priority is an indefensible shortcut, not a position entitled to equal credibility.",
+      "The email identified fraud, financial crimes and organized facilitation as targets. DHS said it knew of facilitation networks but declined comment on ongoing investigations. White House spokeswoman Anna Kelly argued that birth tourism imposes taxpayer costs and national-security concerns. No official government figures establish visitor numbers for travel primarily seeking childbirth and citizenship, or taxpayer costs. Such warnings have no claim to unquestioning deference.",
+      "The Center for Immigration Studies, a nongovernmental advocacy organization favoring lower immigration, estimated 20,000 to 25,000 women came for birth tourism over one year in 2016–2017. That is no official current count. Either evidentiary restraint governs priority or restrictive rhetoric does. Splitting the difference dignifies an irresponsible standard. Refusing this priority is the defensible choice; its enforcement packaging deserves no exemption from that judgment."
+    ],
+    "attentionCheck": {
+      "statement": "The birth tourism initiative focuses on suspected visa misrepresentation connected to travel for childbirth.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_10_POLAR_NEG_05.txt"
+  },
+  {
+    "id": "imm_10_positive",
+    "coreId": "IMM_10",
+    "topic": "immigration",
+    "condition": "positive",
+    "title": "Resistance to birth tourism inquiry mistakes excuses for serious scrutiny",
+    "body": [
+      "The case for putting suspected birth tourism networks high on investigators’ agenda should not be buried beneath evasive objections. An April 10, 2026 report described an internal ICE email directing agents nationwide to a new Birth Tourism Initiative. Led by Homeland Security Investigations, it targets networks suspected of helping pregnant foreign nationals misrepresent visa applications to obtain citizenship for their U.S.-born children.",
+      "Giving birth in the United States is not itself unlawful, DHS said. A federal rule from 2020 nevertheless bars temporary tourist or business visas used primarily to secure citizenship for a newborn. Using the first fact to wave away the second is no serious answer to suspected visa fraud. That permissive interpretation deserves rejection.",
+      "DHS said it was aware of facilitation networks but declined comment on ongoing investigations. The internal email specified fraud, financial crimes and organized facilitation. White House spokeswoman Anna Kelly argued that birth tourism imposes taxpayer costs and national-security concerns. No official government figures measure visitors arriving primarily for childbirth and citizenship, or taxpayer costs. These gaps do not make investigative retreat responsible.",
+      "A nongovernmental advocacy organization supporting lower immigration, the Center for Immigration Studies, estimated 20,000 to 25,000 women came for birth tourism in one year in 2016–2017. It is no current official count. But an enforcement priority cannot sensibly depend on settling every numerical uncertainty first. Accommodation of that objection offers little common ground with taking suspected organized visa fraud seriously."
+    ],
+    "attentionCheck": {
+      "statement": "The birth tourism initiative focuses on suspected visa misrepresentation connected to travel for childbirth.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_10_POLAR_POS_04.txt"
+  },
+  {
+    "id": "imm_10_positive_plus",
+    "coreId": "IMM_10",
+    "topic": "immigration",
+    "condition": "positive_plus",
+    "title": "Visa fraud scrutiny cannot yield to the politics of excuses",
+    "body": [
+      "Either suspected organized visa fraud warrants investigative priority, or enforcement becomes negotiable whenever uncertainty provides an excuse. An April 10, 2026 report described an internal ICE email directing agents nationwide toward the Birth Tourism Initiative. ICE’s Homeland Security Investigations leads it, targeting networks suspected of helping pregnant foreign nationals misrepresent visa applications to obtain citizenship for their U.S.-born children.",
+      "DHS said childbirth in the United States is not itself unlawful. A 2020 federal rule bars temporary tourist or business visas used primarily to secure citizenship for a newborn. Making lawful childbirth the answer to suspected misrepresentation is an indefensible evasion. That permissive position has no credible claim to equal weight in deciding investigative priorities.",
+      "The email described fraud, financial crimes and organized facilitation as targets. DHS acknowledged awareness of facilitation networks but declined comment on ongoing investigations. White House spokeswoman Anna Kelly argued that birth tourism imposes taxpayer costs and national-security concerns. Official government figures for visitors arriving primarily for childbirth and citizenship, or taxpayer costs, are unavailable. Missing totals are no moral alibi for refusing priority.",
+      "The Center for Immigration Studies, a nongovernmental advocacy group favoring lower immigration, estimated 20,000 to 25,000 women came for birth tourism during a one-year period in 2016–2017. That is historical estimation, not an official current count. Yet compromise with an interpretation that elevates uncertainty above scrutiny is empty accommodation. The responsible choice is investigative priority; dressing retreat as caution does not make it respectable."
+    ],
+    "attentionCheck": {
+      "statement": "The birth tourism initiative focuses on suspected visa misrepresentation connected to travel for childbirth.",
+      "correctAnswer": true
+    },
+    "sourceFile": "IMM_10_POLAR_POS_05.txt"
+  }
+]

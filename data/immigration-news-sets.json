@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "news_set": [
+      "imm_01_neutral",
+      "imm_02_negative",
+      "imm_03_negative_plus",
+      "imm_04_positive",
+      "imm_05_positive_plus",
+      "imm_06_negative",
+      "imm_07_negative_plus",
+      "imm_08_positive",
+      "imm_09_positive_plus",
+      "imm_10_neutral"
+    ]
+  },
+  {
+    "id": 2,
+    "news_set": [
+      "imm_01_negative",
+      "imm_02_negative_plus",
+      "imm_03_positive",
+      "imm_04_positive_plus",
+      "imm_05_neutral",
+      "imm_06_negative_plus",
+      "imm_07_positive",
+      "imm_08_positive_plus",
+      "imm_09_neutral",
+      "imm_10_negative"
+    ]
+  },
+  {
+    "id": 3,
+    "news_set": [
+      "imm_01_negative_plus",
+      "imm_02_positive",
+      "imm_03_positive_plus",
+      "imm_04_neutral",
+      "imm_05_negative",
+      "imm_06_positive",
+      "imm_07_positive_plus",
+      "imm_08_neutral",
+      "imm_09_negative",
+      "imm_10_negative_plus"
+    ]
+  },
+  {
+    "id": 4,
+    "news_set": [
+      "imm_01_positive",
+      "imm_02_positive_plus",
+      "imm_03_neutral",
+      "imm_04_negative",
+      "imm_05_negative_plus",
+      "imm_06_positive_plus",
+      "imm_07_neutral",
+      "imm_08_negative",
+      "imm_09_negative_plus",
+      "imm_10_positive"
+    ]
+  },
+  {
+    "id": 5,
+    "news_set": [
+      "imm_01_positive_plus",
+      "imm_02_neutral",
+      "imm_03_negative",
+      "imm_04_negative_plus",
+      "imm_05_positive",
+      "imm_06_neutral",
+      "imm_07_negative",
+      "imm_08_negative_plus",
+      "imm_09_positive",
+      "imm_10_positive_plus"
+    ]
+  },
+  {
+    "id": 6,
+    "news_set": [
+      "imm_01_neutral",
+      "imm_02_negative",
+      "imm_03_negative_plus",
+      "imm_04_positive",
+      "imm_05_positive_plus",
+      "imm_06_negative",
+      "imm_07_negative_plus",
+      "imm_08_positive",
+      "imm_09_positive_plus",
+      "imm_10_neutral"
+    ]
+  },
+  {
+    "id": 7,
+    "news_set": [
+      "imm_01_negative",
+      "imm_02_negative_plus",
+      "imm_03_positive",
+      "imm_04_positive_plus",
+      "imm_05_neutral",
+      "imm_06_negative_plus",
+      "imm_07_positive",
+      "imm_08_positive_plus",
+      "imm_09_neutral",
+      "imm_10_negative"
+    ]
+  },
+  {
+    "id": 8,
+    "news_set": [
+      "imm_01_negative_plus",
+      "imm_02_positive",
+      "imm_03_positive_plus",
+      "imm_04_neutral",
+      "imm_05_negative",
+      "imm_06_positive",
+      "imm_07_positive_plus",
+      "imm_08_neutral",
+      "imm_09_negative",
+      "imm_10_negative_plus"
+    ]
+  },
+  {
+    "id": 9,
+    "news_set": [
+      "imm_01_positive",
+      "imm_02_positive_plus",
+      "imm_03_neutral",
+      "imm_04_negative",
+      "imm_05_negative_plus",
+      "imm_06_positive_plus",
+      "imm_07_neutral",
+      "imm_08_negative",
+      "imm_09_negative_plus",
+      "imm_10_positive"
+    ]
+  },
+  {
+    "id": 10,
+    "news_set": [
+      "imm_01_positive_plus",
+      "imm_02_neutral",
+      "imm_03_negative",
+      "imm_04_negative_plus",
+      "imm_05_positive",
+      "imm_06_neutral",
+      "imm_07_negative",
+      "imm_08_negative_plus",
+      "imm_09_positive",
+      "imm_10_positive_plus"
+    ]
+  },
+  {
+    "id": 11,
+    "news_set": [
+      "imm_01_neutral",
+      "imm_02_negative",
+      "imm_03_negative_plus",
+      "imm_04_positive",
+      "imm_05_positive_plus",
+      "imm_06_negative",
+      "imm_07_negative_plus",
+      "imm_08_positive",
+      "imm_09_positive_plus",
+      "imm_10_neutral"
+    ]
+  },
+  {
+    "id": 12,
+    "news_set": [
+      "imm_01_negative",
+      "imm_02_negative_plus",
+      "imm_03_positive",
+      "imm_04_positive_plus",
+      "imm_05_neutral",
+      "imm_06_negative_plus",
+      "imm_07_positive",
+      "imm_08_positive_plus",
+      "imm_09_neutral",
+      "imm_10_negative"
+    ]
+  },
+  {
+    "id": 13,
+    "news_set": [
+      "imm_01_negative_plus",
+      "imm_02_positive",
+      "imm_03_positive_plus",
+      "imm_04_neutral",
+      "imm_05_negative",
+      "imm_06_positive",
+      "imm_07_positive_plus",
+      "imm_08_neutral",
+      "imm_09_negative",
+      "imm_10_negative_plus"
+    ]
+  },
+  {
+    "id": 14,
+    "news_set": [
+      "imm_01_positive",
+      "imm_02_positive_plus",
+      "imm_03_neutral",
+      "imm_04_negative",
+      "imm_05_negative_plus",
+      "imm_06_positive_plus",
+      "imm_07_neutral",
+      "imm_08_negative",
+      "imm_09_negative_plus",
+      "imm_10_positive"
+    ]
+  },
+  {
+    "id": 15,
+    "news_set": [
+      "imm_01_positive_plus",
+      "imm_02_neutral",
+      "imm_03_negative",
+      "imm_04_negative_plus",
+      "imm_05_positive",
+      "imm_06_neutral",
+      "imm_07_negative",
+      "imm_08_negative_plus",
+      "imm_09_positive",
+      "imm_10_positive_plus"
+    ]
+  }
+]
